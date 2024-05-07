@@ -1,5 +1,3 @@
-READ THE INSTRUCTIONS CAREFULLY
-1. Download and Upload the Dataset in drive so that you don't have to upload the dataset after every runtime.
-2. Handle the missing values carefully
-3. Encode the categorical variables present in the dataset into numerical variables.
-4. Train the Dataset correctly for required accuracy.
+## **Project Description**
+This repository contains a machine learning project focused on classifying mushrooms as either edible or poisonous based on various characteristics. The dataset includes features such as cap shape, cap surface, cap color, odor, gill attachment, gill spacing, gill size, gill color, stalk surface below the ring, stalk color above and below the ring, veil type, veil color, ring number, ring type, spore print color, population, and habitat.
+The goal of the project is to develop a predictive model that can accurately classify mushrooms as edible or poisonous using these features. This can be particularly useful for mushroom foragers, naturalists, and anyone interested in safely identifying edible mushroom species.
